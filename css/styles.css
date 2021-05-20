@@ -109,18 +109,6 @@ h2, button {
     line-height: 1.5;
 }
 
-@media (max-width: 1550px) {
-    .container {
-        margin: 0 15%;
-    } 
-}
-
-@media (max-width: 1250px) {
-    .container {
-        margin: 0 10%;
-    } 
-}
-
 @media (max-width: 1000px) {
     /* .container {
         margin: 0 15%;
