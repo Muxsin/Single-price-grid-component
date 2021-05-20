@@ -143,22 +143,7 @@ h2, button {
     .card {
         margin: 0;
     }
-}
 
-
-@media (max-width: 650px) {
-    .container {
-        margin: 0 15%;
-    }
-}
-
-@media (max-width: 500px) {
-    .container {
-        margin: 0 10%;
-    }
-}
-
-@media (max-width: 500px) {
     .container {
         margin: 0 4px;
     }
